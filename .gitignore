@@ -1,0 +1,9 @@
+.idea
+
+##web_app folder
+./web_app/node_modules
+./web_app/package-lock.json
+
+##mock_server folder
+./mock_server/node_modules
+./mock_server/package-lock.json
