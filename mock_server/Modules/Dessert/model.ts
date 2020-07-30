@@ -40,7 +40,6 @@ export const DessertDef = `
   type Query {
     dessertList: [Dessert]
     deleteDessert(id: String): [Dessert]
-    eraseAll
   }
   
   type Mutation {

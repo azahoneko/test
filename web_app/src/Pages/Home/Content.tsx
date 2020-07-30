@@ -59,11 +59,6 @@ export default function (props) {
       <div className="fl w-90 center pa2 ph2 bg-light-gray">
         <div className="flex flex-row justify-between items-center">
           <div className="f2-l">Nutrition List</div>
-          <div
-            onClick={EraseAll}
-            className="f6 link dim br1 ph3 pv2 mb2 dib white bg-dark-green">
-            Reset Data
-          </div>
         </div>
         <div className="flex flex-row justify-between bg-washed-red pv3 ph2">
           <div className="dark-pink">selected {selected.length}</div>

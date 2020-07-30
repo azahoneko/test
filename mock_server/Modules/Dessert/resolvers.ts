@@ -26,7 +26,6 @@ export const DessertResolvers = {
   Query: {
     dessertList,
     deleteDessert,
-    eraseAll
   },
   Mutation: {
     addDessert
